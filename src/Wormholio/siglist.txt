@@ -1,0 +1,20 @@
+ADD-866	Cosmic Anomaly	Combat Site	Core Citadel	100.0%	3.24 AU
+AGS-020	Cosmic Anomaly	Combat Site	Treacherous Collapsed Conduit	100.0%	4.50 AU
+AKI-744	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	1.89 AU
+BHW-661	Cosmic Signature			0.0%	4.14 AU
+DEZ-673	Cosmic Anomaly	Ore Site	Unexceptional Frontier Deposit	100.0%	3.77 AU
+DFC-151	Cosmic Anomaly	Combat Site	The Mirror	100.0%	0.70 AU
+DGD-033	Cosmic Anomaly	Combat Site	Strange Energy Readings	100.0%	1.15 AU
+FSO-695	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	22.46 AU
+IHN-360	Cosmic Anomaly	Combat Site	Core Citadel	100.0%	20.91 AU
+JAY-934	Cosmic Anomaly	Combat Site	Core Citadel	100.0%	3.88 AU
+JIE-621	Cosmic Signature			0.0%	19.46 AU
+LXQ-901	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	1.61 AU
+OKI-468	Cosmic Anomaly	Combat Site	The Mirror	100.0%	21.50 AU
+QEV-736	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	1.39 AU
+SDU-336	Cosmic Anomaly	Combat Site	The Mirror	100.0%	3.43 AU
+ULB-144	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	20.21 AU
+WBR-596	Cosmic Anomaly	Ore Site	Ordinary Perimeter Deposit	100.0%	2.83 AU
+XUB-982	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	3.11 AU
+YIQ-288	Cosmic Anomaly	Combat Site	Core Citadel	100.0%	2.51 AU
+YZM-020	Cosmic Anomaly	Combat Site	Core Bastion	100.0%	3.77 AU

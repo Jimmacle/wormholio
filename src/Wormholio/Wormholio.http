@@ -1,0 +1,6 @@
+@LifeManager_HostAddress = http://localhost:5209
+
+GET {{LifeManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
